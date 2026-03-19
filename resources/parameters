@@ -1,0 +1,21 @@
+font.size:14
+output.default.size:700
+output.min.size:350
+control.size:300
+main.width:600
+main.height:375
+admin.width:400
+admin.height:200
+settings.width:750
+settings.height:350
+click.duration:10
+font.name:Tahoma
+splash.address:/images/splash.png
+settings.file.name:loto.properties
+icon.address:/images/icon.png
+standby.address:/images/standby.png
+default.settings.address:/default.properties
+date.format:yyyy.MM.dd - HH
+minutes.format:mm
+secondes.format:ss
+extension:.loto

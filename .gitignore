@@ -1,0 +1,15 @@
+#gitignore
+
+#MacOS phantom files
+.DS_Store
+
+#Binaries are not needed
+bin/
+
+#Not needed Eclipse files
+.classpath
+.project
+loto.jardesc
+MANIFEST.MF
+.settings/
+
