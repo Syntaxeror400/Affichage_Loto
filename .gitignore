@@ -1,15 +1,13 @@
 #gitignore
 
-#MacOS phantom files
+# MacOS phantom files
 .DS_Store
 
-#Binaries are not needed
-bin/
+# Build files are not needed
+build/
 
-#Not needed Eclipse files
+# Not needed Eclipse files
 .classpath
 .project
-loto.jardesc
-MANIFEST.MF
 .settings/
 
