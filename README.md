@@ -2,7 +2,8 @@
 Un projet de logiciel d'affichage pour une grille de loto (1-90) avec une multitude de fonctionnalités et d'options d'affichage.
 
 Requiert Java 15 ou ultérieur pour être utilisé. Il est possible de vérifier la version de Java avec la commande "java -version".
-Le package Splash (https://github.com/Syntaxeror400/Splash) est requis pour la compilation du projet.
+
+Le package Splash (https://github.com/Syntaxeror400/Splash) est requis pour la compilation du projet. Il n'est **pas** requis si l'on souhaite uniquement utiliser l'application.
 
 ## Fonctionnalitées
 * Affichage des nombres de 1 à 90 dans une grille avec démarquage pour le dernier nombre affiché.
