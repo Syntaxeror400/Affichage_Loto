@@ -5,6 +5,7 @@
 
 # Build files are not needed
 build/
+Affichage_Loto.jar
 
 # Not needed Eclipse files
 .classpath

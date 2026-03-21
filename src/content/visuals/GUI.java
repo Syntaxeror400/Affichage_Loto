@@ -167,7 +167,8 @@ public class GUI{
 		initializeStandBy();
 		initializeMenuBar();
 		
-		Desktop.getDesktop().setDefaultMenuBar(mainMBar);
+		if(Data.MAC_OS)
+			Desktop.getDesktop().setDefaultMenuBar(mainMBar);
 		KeyboardFocusManager.getCurrentKeyboardFocusManager().addKeyEventDispatcher(dispatcher);
 	}
 	
